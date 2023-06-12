@@ -614,7 +614,7 @@ overflow: hidden;
 .footer-flex {
     display: flex;
     gap: 24px;
-    margin-top: 16px;
+    
 }
 .footer-form-title {
     font-weight: 500;
@@ -622,6 +622,7 @@ overflow: hidden;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--first-background);
+    margin-bottom: 16px;
 }
 .footer-input {
     outline: transparent;
