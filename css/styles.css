@@ -674,6 +674,7 @@ overflow: hidden;
 }
 .footer-btn-icon {
     fill: #FFFFFF;
+    margin-left: 16px
 }
 
 .backdrop {
