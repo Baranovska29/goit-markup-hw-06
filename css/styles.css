@@ -873,7 +873,7 @@ overflow: hidden;
     color: #4D5AE5;
 }
 .check-label {
-    display: inline-flex;
+    display: block;
     align-items: center;
     font-weight: 400;
     font-size: 12px;
