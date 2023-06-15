@@ -790,6 +790,9 @@ overflow: hidden;
 .modal-field {
     margin-bottom: 8px;
 }
+.modal-comment {
+    margin-bottom: 16px;
+}
 .modal-text::placeholder {
     font-weight: 400;
     font-size: 12px;
